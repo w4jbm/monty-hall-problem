@@ -1,4 +1,4 @@
-# monty-hall-problem
+# The Monty Hall Problem
 Here is another math / probability puzzled called the Monty Hall Problem. I have also created a more generalized version that takes a number from the command line and lets you look at more doors than the original puzzle.
 
 [From Wikipedia](https://en.wikipedia.org/wiki/Monty_Hall_problem), the problem can be stated as:
